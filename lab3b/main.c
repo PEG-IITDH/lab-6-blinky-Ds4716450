@@ -41,7 +41,7 @@ while(1)
     GPIO_PORTF_DATA_R = 0x2;
     Delay(3200);
     GPIO_PORTF_DATA_R = 0x0;
-    Delay(32000);
+    Delay(12800);
 }
 
 
